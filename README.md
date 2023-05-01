@@ -37,6 +37,7 @@ Through the lessons in the piper computer, students will be allowed to move on t
 Lastly, the minecraft applicaiton allows this virtual world to show how compoents of a computer are connected and worked. The biggest reason why I am using this program is I want my students to be able to show me thier work through this virutal plan. A 3d renderring is just an amazing way to show ideas/understanding. 
 
 #Outcomes
+
 The biggest goal is that I want my students to get excited about computer science. To support equity in my classroom Students will be sharing a piper computer to work along side each other. In addtion students will also be given a google chromebook for a 1 to 1 ratio. This will allow students to be able to explore assignments at home. 
 Through the discussions and video presentations, I want my students to take way how computers/technology impacts their everyday life. Students will have a better underanding and be more mindful of their responsibility with navigating the harmful impacts of computers, while embracing the positves. More importantly, I want my studens who are from a rural community to feel like they have a place in the computer world. For example, I want my students to feel inspired to pursue further understanding of coding and creating games. 
 
